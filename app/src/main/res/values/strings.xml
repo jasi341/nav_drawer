@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Custom Nav</string>
+
+    <string name="demo">Hello <b>Jasmeet Singh</b></string>
+</resources>
